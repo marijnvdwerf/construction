@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+	<unicode hex="2018"/>
+	<advance width="1536"/>
+	<outline>
+		<component base="pixel" yOffset="3584"/>
+		<component base="pixel" xOffset="256" yOffset="3584"/>
+		<component base="pixel" yOffset="3328"/>
+		<component base="pixel" xOffset="256" yOffset="3328"/>
+		<component base="pixel" xOffset="512" yOffset="3328"/>
+		<component base="pixel" xOffset="256" yOffset="3072"/>
+		<component base="pixel" xOffset="512" yOffset="3072"/>
+		<component base="pixel" xOffset="768" yOffset="3072"/>
+		<component base="pixel" xOffset="768" yOffset="2816"/>
+		<component base="pixel" xOffset="1024" yOffset="2816"/>
+	</outline>
+</glyph>

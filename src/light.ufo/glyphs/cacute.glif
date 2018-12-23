@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute" format="2">
+	<unicode hex="0107"/>
+	<advance width="1280"/>
+	<outline>
+		<component base="pixel" xOffset="512" yOffset="1792"/>
+		<component base="pixel" xOffset="256" yOffset="1536"/>
+		<component base="pixel" xOffset="256" yOffset="1280"/>
+		<component base="pixel" xOffset="512" yOffset="1280"/>
+		<component base="pixel" yOffset="1024"/>
+		<component base="pixel" xOffset="768" yOffset="1024"/>
+		<component base="pixel" yOffset="768"/>
+		<component base="pixel" yOffset="512"/>
+		<component base="pixel" yOffset="256"/>
+		<component base="pixel" xOffset="768" yOffset="256"/>
+		<component base="pixel" xOffset="256"/>
+		<component base="pixel" xOffset="512"/>
+	</outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="2">
+	<unicode hex="201D"/>
+	<advance width="1536"/>
+	<outline>
+		<component base="pixel" yOffset="1792"/>
+		<component base="pixel" xOffset="256" yOffset="1792"/>
+		<component base="pixel" xOffset="768" yOffset="1792"/>
+		<component base="pixel" xOffset="1024" yOffset="1792"/>
+		<component base="pixel" yOffset="1536"/>
+		<component base="pixel" xOffset="256" yOffset="1536"/>
+		<component base="pixel" xOffset="768" yOffset="1536"/>
+		<component base="pixel" xOffset="1024" yOffset="1536"/>
+		<component base="pixel" xOffset="256" yOffset="1280"/>
+		<component base="pixel" xOffset="1024" yOffset="1280"/>
+		<component base="pixel" yOffset="1024"/>
+		<component base="pixel" xOffset="768" yOffset="1024"/>
+	</outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="2">
+	<unicode hex="00A3"/>
+	<advance width="1024"/>
+	<outline>
+		<component base="pixel" xOffset="256" yOffset="1024"/>
+		<component base="pixel" yOffset="768"/>
+		<component base="pixel" xOffset="512" yOffset="768"/>
+		<component base="pixel" yOffset="512"/>
+		<component base="pixel" yOffset="256"/>
+		<component base="pixel" xOffset="256" yOffset="256"/>
+		<component base="pixel"/>
+		<component base="pixel" yOffset="-256"/>
+		<component base="pixel" xOffset="256" yOffset="-256"/>
+		<component base="pixel" xOffset="512" yOffset="-256"/>
+	</outline>
+</glyph>
