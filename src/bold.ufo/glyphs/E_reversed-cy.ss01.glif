@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversed-cy.ss01" format="2">
+	<advance width="2304"/>
+	<outline>
+		<component base="pixel" xOffset="512" yOffset="1792"/>
+		<component base="pixel" xOffset="768" yOffset="1792"/>
+		<component base="pixel" xOffset="1024" yOffset="1792"/>
+		<component base="pixel" xOffset="1280" yOffset="1792"/>
+		<component base="pixel" xOffset="256" yOffset="1536"/>
+		<component base="pixel" xOffset="512" yOffset="1536"/>
+		<component base="pixel" xOffset="768" yOffset="1536"/>
+		<component base="pixel" xOffset="1024" yOffset="1536"/>
+		<component base="pixel" xOffset="1280" yOffset="1536"/>
+		<component base="pixel" xOffset="1536" yOffset="1536"/>
+		<component base="pixel" yOffset="1280"/>
+		<component base="pixel" xOffset="256" yOffset="1280"/>
+		<component base="pixel" xOffset="512" yOffset="1280"/>
+		<component base="pixel" xOffset="1280" yOffset="1280"/>
+		<component base="pixel" xOffset="1536" yOffset="1280"/>
+		<component base="pixel" xOffset="1792" yOffset="1280"/>
+		<component base="pixel" xOffset="768" yOffset="1024"/>
+		<component base="pixel" xOffset="1024" yOffset="1024"/>
+		<component base="pixel" xOffset="1280" yOffset="1024"/>
+		<component base="pixel" xOffset="1536" yOffset="1024"/>
+		<component base="pixel" xOffset="1792" yOffset="1024"/>
+		<component base="pixel" xOffset="768" yOffset="768"/>
+		<component base="pixel" xOffset="1024" yOffset="768"/>
+		<component base="pixel" xOffset="1280" yOffset="768"/>
+		<component base="pixel" xOffset="1536" yOffset="768"/>
+		<component base="pixel" xOffset="1792" yOffset="768"/>
+		<component base="pixel" yOffset="512"/>
+		<component base="pixel" xOffset="256" yOffset="512"/>
+		<component base="pixel" xOffset="512" yOffset="512"/>
+		<component base="pixel" xOffset="1280" yOffset="512"/>
+		<component base="pixel" xOffset="1536" yOffset="512"/>
+		<component base="pixel" xOffset="1792" yOffset="512"/>
+		<component base="pixel" xOffset="256" yOffset="256"/>
+		<component base="pixel" xOffset="512" yOffset="256"/>
+		<component base="pixel" xOffset="768" yOffset="256"/>
+		<component base="pixel" xOffset="1024" yOffset="256"/>
+		<component base="pixel" xOffset="1280" yOffset="256"/>
+		<component base="pixel" xOffset="1536" yOffset="256"/>
+		<component base="pixel" xOffset="512"/>
+		<component base="pixel" xOffset="768"/>
+		<component base="pixel" xOffset="1024"/>
+		<component base="pixel" xOffset="1280"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -87,29 +87,36 @@
 		<array>
 			<string>A</string>
 			<string>Aacute</string>
+			<string>Abreve</string>
 			<string>Acirc</string>
 			<string>Agrave</string>
 			<string>Aogonek</string>
 			<string>Aring</string>
 			<string>Atilde</string>
 			<string>Aumlaut</string>
+			<string>AE</string>
 			<string>B</string>
 			<string>C</string>
 			<string>Cacute</string>
+			<string>Ccaron</string>
 			<string>Ccedilla</string>
 			<string>D</string>
+			<string>Dcaron</string>
 			<string>E</string>
 			<string>Eacute</string>
+			<string>Ecaron</string>
 			<string>Ecirc</string>
 			<string>Egrave</string>
 			<string>Eogonek</string>
 			<string>Eumlaut</string>
 			<string>F</string>
 			<string>G</string>
+			<string>Gbreve</string>
 			<string>H</string>
 			<string>I</string>
 			<string>Iacute</string>
 			<string>Icirc</string>
+			<string>Idotaccent</string>
 			<string>Igrave</string>
 			<string>Iumlaut</string>
 			<string>J</string>
@@ -124,6 +131,8 @@
 			<string>Oacute</string>
 			<string>Ocirc</string>
 			<string>Ograve</string>
+			<string>Ohungarumlaut</string>
+			<string>Oslash</string>
 			<string>Otilde</string>
 			<string>Oumlaut</string>
 			<string>P</string>
@@ -131,16 +140,20 @@
 			<string>R</string>
 			<string>S</string>
 			<string>Sacute</string>
+			<string>Scedilla</string>
 			<string>T</string>
+			<string>Tcommaaccent</string>
 			<string>U</string>
 			<string>Uacute</string>
 			<string>Ucirc</string>
 			<string>Ugrave</string>
+			<string>Uhungarumlaut</string>
 			<string>Uumlaut</string>
 			<string>V</string>
 			<string>W</string>
 			<string>X</string>
 			<string>Y</string>
+			<string>Yacute</string>
 			<string>Z</string>
 			<string>Zacute</string>
 			<string>Zdotaccent</string>
@@ -152,21 +165,27 @@
 			<string>aring</string>
 			<string>atilde</string>
 			<string>aumlaut</string>
+			<string>ae</string>
 			<string>b</string>
 			<string>c</string>
 			<string>cacute</string>
+			<string>ccaron</string>
 			<string>ccedilla</string>
 			<string>d</string>
+			<string>dcaron</string>
 			<string>e</string>
 			<string>eacute</string>
+			<string>ecaron</string>
 			<string>ecirc</string>
 			<string>egrave</string>
 			<string>eogonek</string>
 			<string>eumlaut</string>
 			<string>f</string>
 			<string>g</string>
+			<string>gbreve</string>
 			<string>h</string>
 			<string>i</string>
+			<string>idotless</string>
 			<string>iacute</string>
 			<string>icirc</string>
 			<string>igrave</string>
@@ -183,6 +202,8 @@
 			<string>oacute</string>
 			<string>ocirc</string>
 			<string>ograve</string>
+			<string>ohungarumlaut</string>
+			<string>oslash</string>
 			<string>otilde</string>
 			<string>oumlaut</string>
 			<string>p</string>
@@ -190,20 +211,69 @@
 			<string>r</string>
 			<string>s</string>
 			<string>sacute</string>
+			<string>scedilla</string>
 			<string>germandbls</string>
 			<string>t</string>
+			<string>tcommaaccent</string>
 			<string>u</string>
 			<string>uacute</string>
 			<string>ucirc</string>
 			<string>ugrave</string>
+			<string>uhungarumlaut</string>
 			<string>uumlaut</string>
 			<string>v</string>
 			<string>w</string>
 			<string>x</string>
 			<string>y</string>
+			<string>yacute</string>
 			<string>z</string>
 			<string>zacute</string>
 			<string>zdotaccent</string>
+			<string>Be-cy</string>
+			<string>Ge-cy</string>
+			<string>De-cy</string>
+			<string>Zhe-cy</string>
+			<string>Ze-cy</string>
+			<string>Ii-cy</string>
+			<string>Iishort-cy</string>
+			<string>El-cy</string>
+			<string>Pe-cy</string>
+			<string>U-cy</string>
+			<string>Ef-cy</string>
+			<string>Che-cy</string>
+			<string>Tse-cy</string>
+			<string>Sha-cy</string>
+			<string>Shcha-cy</string>
+			<string>Softsign-cy</string>
+			<string>Yeru-cy</string>
+			<string>Ereversed-cy</string>
+			<string>Iu-cy</string>
+			<string>Ia-cy</string>
+			<string>be-cy</string>
+			<string>ve-cy</string>
+			<string>ge-cy</string>
+			<string>de-cy</string>
+			<string>zhe-cy</string>
+			<string>ze-cy</string>
+			<string>ii-cy</string>
+			<string>iishort-cy</string>
+			<string>ka-cy</string>
+			<string>el-cy</string>
+			<string>em-cy</string>
+			<string>en-cy</string>
+			<string>pe-cy</string>
+			<string>te-cy</string>
+			<string>ef-cy</string>
+			<string>che-cy</string>
+			<string>tse-cy</string>
+			<string>sha-cy</string>
+			<string>shcha-cy</string>
+			<string>softsign-cy</string>
+			<string>hardsign-cy</string>
+			<string>yeru-cy</string>
+			<string>ereversed-cy</string>
+			<string>iu-cy</string>
+			<string>ia-cy</string>
 			<string>zero</string>
 			<string>one</string>
 			<string>two</string>
@@ -219,10 +289,12 @@
 			<string>comma</string>
 			<string>colon</string>
 			<string>semicolon</string>
+			<string>ellipsis</string>
 			<string>exclam</string>
 			<string>exclamdown</string>
 			<string>question</string>
 			<string>questiondown</string>
+			<string>periodcentered</string>
 			<string>asterisk</string>
 			<string>numbersign</string>
 			<string>slash</string>
@@ -233,6 +305,7 @@
 			<string>bracketright</string>
 			<string>hyphen</string>
 			<string>underscore</string>
+			<string>quotedblbase</string>
 			<string>quotedblleft</string>
 			<string>quotedblright</string>
 			<string>quoteleft</string>
@@ -242,6 +315,8 @@
 			<string>space</string>
 			<string>dollar</string>
 			<string>euro</string>
+			<string>florin</string>
+			<string>ruble</string>
 			<string>sterling</string>
 			<string>yen</string>
 			<string>plus</string>
@@ -259,16 +334,114 @@
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
+			<key>Be-cy</key>
+			<string>uni0411</string>
+			<key>Che-cy</key>
+			<string>uni0427</string>
+			<key>De-cy</key>
+			<string>uni0414</string>
+			<key>Ef-cy</key>
+			<string>uni0424</string>
+			<key>El-cy</key>
+			<string>uni041B</string>
+			<key>Ereversed-cy</key>
+			<string>uni042D</string>
+			<key>Ge-cy</key>
+			<string>uni0413</string>
+			<key>Ia-cy</key>
+			<string>uni042F</string>
+			<key>Ii-cy</key>
+			<string>uni0418</string>
+			<key>Iishort-cy</key>
+			<string>uni0419</string>
+			<key>Iu-cy</key>
+			<string>uni042E</string>
+			<key>Pe-cy</key>
+			<string>uni041F</string>
+			<key>Sha-cy</key>
+			<string>uni0428</string>
+			<key>Shcha-cy</key>
+			<string>uni0429</string>
+			<key>Softsign-cy</key>
+			<string>uni042C</string>
+			<key>Tcommaaccent</key>
+			<string>uni021A</string>
+			<key>Tse-cy</key>
+			<string>uni0426</string>
+			<key>U-cy</key>
+			<string>uni0423</string>
+			<key>Yeru-cy</key>
+			<string>uni042B</string>
+			<key>Ze-cy</key>
+			<string>uni0417</string>
+			<key>Zhe-cy</key>
+			<string>uni0416</string>
+			<key>be-cy</key>
+			<string>uni0431</string>
+			<key>che-cy</key>
+			<string>uni0447</string>
+			<key>de-cy</key>
+			<string>uni0434</string>
+			<key>ef-cy</key>
+			<string>uni0444</string>
+			<key>el-cy</key>
+			<string>uni043B</string>
+			<key>em-cy</key>
+			<string>uni043C</string>
+			<key>en-cy</key>
+			<string>uni043D</string>
+			<key>ereversed-cy</key>
+			<string>uni044D</string>
 			<key>euro</key>
 			<string>Euro</string>
+			<key>ge-cy</key>
+			<string>uni0433</string>
 			<key>guillemetleft</key>
 			<string>guillemotleft</string>
 			<key>guillemetright</key>
 			<string>guillemotright</string>
+			<key>hardsign-cy</key>
+			<string>uni044A</string>
+			<key>ia-cy</key>
+			<string>uni044F</string>
+			<key>idotless</key>
+			<string>dotlessi</string>
+			<key>ii-cy</key>
+			<string>uni0438</string>
+			<key>iishort-cy</key>
+			<string>uni0439</string>
+			<key>iu-cy</key>
+			<string>uni044E</string>
+			<key>ka-cy</key>
+			<string>uni043A</string>
 			<key>minussuperior_onesuperior</key>
 			<string>uni207B00B9</string>
+			<key>pe-cy</key>
+			<string>uni043F</string>
+			<key>ruble</key>
+			<string>uni20BD</string>
+			<key>sha-cy</key>
+			<string>uni0448</string>
+			<key>shcha-cy</key>
+			<string>uni0449</string>
+			<key>softsign-cy</key>
+			<string>uni044C</string>
+			<key>tcommaaccent</key>
+			<string>uni021B</string>
+			<key>te-cy</key>
+			<string>uni0442</string>
+			<key>tse-cy</key>
+			<string>uni0446</string>
 			<key>twosuperior</key>
 			<string>uni00B2</string>
+			<key>ve-cy</key>
+			<string>uni0432</string>
+			<key>yeru-cy</key>
+			<string>uni044B</string>
+			<key>ze-cy</key>
+			<string>uni0437</string>
+			<key>zhe-cy</key>
+			<string>uni0436</string>
 		</dict>
 	</dict>
 </plist>
