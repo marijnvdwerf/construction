@@ -2,3 +2,10 @@
 # automatic
 languagesystem DFLT dflt;
 
+feature aalt {
+    feature ss02;
+} aalt;
+
+feature ss02 {
+    sub quotedblright by quotedblright.ss02;
+} ss02;

@@ -4,9 +4,15 @@ languagesystem DFLT dflt;
 
 feature aalt {
     feature ss01;
+    feature ss02;
 } aalt;
 
 feature ss01 {
     sub Ereversed-cy by Ereversed-cy.ss01;
     sub Sha-cy by Sha-cy.ss01;
 } ss01;
+
+feature ss02 {
+    sub backslash by backslash.ss02;
+    sub ucirc by ucirc.ss02;
+} ss02;
