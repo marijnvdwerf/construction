@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+	<unicode hex="021A"/>
+	<advance width="1024"/>
+	<outline>
+		<component base="pixel" yOffset="1024"/>
+		<component base="pixel" xOffset="256" yOffset="1024"/>
+		<component base="pixel" xOffset="512" yOffset="1024"/>
+		<component base="pixel" xOffset="256" yOffset="768"/>
+		<component base="pixel" xOffset="256" yOffset="512"/>
+		<component base="pixel" xOffset="256" yOffset="256"/>
+		<component base="pixel" xOffset="256"/>
+		<component base="pixel" yOffset="-256"/>
+	</outline>
+</glyph>

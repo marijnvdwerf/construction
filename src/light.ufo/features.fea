@@ -2,3 +2,10 @@
 # automatic
 languagesystem DFLT dflt;
 
+feature aalt {
+    feature ss01;
+} aalt;
+
+feature ss01 {
+    sub Ereversed-cy by Ereversed-cy.ss01;
+} ss01;

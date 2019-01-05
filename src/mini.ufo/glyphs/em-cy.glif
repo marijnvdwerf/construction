@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="em-cy" format="2">
+	<unicode hex="043C"/>
+	<advance width="1536"/>
+	<outline>
+		<component base="pixel" yOffset="768"/>
+		<component base="pixel" xOffset="256" yOffset="768"/>
+		<component base="pixel" xOffset="768" yOffset="768"/>
+		<component base="pixel" xOffset="1024" yOffset="768"/>
+		<component base="pixel" yOffset="512"/>
+		<component base="pixel" xOffset="256" yOffset="512"/>
+		<component base="pixel" xOffset="512" yOffset="512"/>
+		<component base="pixel" xOffset="768" yOffset="512"/>
+		<component base="pixel" xOffset="1024" yOffset="512"/>
+		<component base="pixel" yOffset="256"/>
+		<component base="pixel" xOffset="512" yOffset="256"/>
+		<component base="pixel" xOffset="1024" yOffset="256"/>
+		<component base="pixel"/>
+		<component base="pixel" xOffset="1024"/>
+	</outline>
+</glyph>
