@@ -246,6 +246,8 @@
 		<string>b.glif</string>
 		<key>backslash</key>
 		<string>backslash.glif</string>
+		<key>backslash.ss02</key>
+		<string>backslash.ss02.glif</string>
 		<key>be-cy</key>
 		<string>be-cy.glif</string>
 		<key>bracketleft</key>
@@ -500,6 +502,8 @@
 		<string>uacute.glif</string>
 		<key>ucirc</key>
 		<string>ucirc.glif</string>
+		<key>ucirc.ss02</key>
+		<string>ucirc.ss02.glif</string>
 		<key>ugrave</key>
 		<string>ugrave.glif</string>
 		<key>uhungarumlaut</key>

@@ -262,6 +262,8 @@
 		<string>quotedblleft.glif</string>
 		<key>quotedblright</key>
 		<string>quotedblright.glif</string>
+		<key>quotedblright.ss02</key>
+		<string>quotedblright.ss02.glif</string>
 		<key>quoteleft</key>
 		<string>quoteleft.glif</string>
 		<key>quoteright</key>

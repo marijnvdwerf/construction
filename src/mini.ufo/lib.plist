@@ -157,6 +157,60 @@
 			<string>Z</string>
 			<string>Zacute</string>
 			<string>Zdotaccent</string>
+			<string>Acirc.ss02</string>
+			<string>Aumlaut.ss02</string>
+			<string>Ecirc.ss02</string>
+			<string>Eumlaut.ss02</string>
+			<string>Icirc.ss02</string>
+			<string>Iumlaut.ss02</string>
+			<string>Ocirc.ss02</string>
+			<string>Oumlaut.ss02</string>
+			<string>Ucirc.ss02</string>
+			<string>Uumlaut.ss02</string>
+			<string>A.ss02</string>
+			<string>Aacute.ss02</string>
+			<string>Agrave.ss02</string>
+			<string>Aring.ss02</string>
+			<string>Atilde.ss02</string>
+			<string>B.ss02</string>
+			<string>C.ss02</string>
+			<string>Cacute.ss02</string>
+			<string>Ccedilla.ss02</string>
+			<string>D.ss02</string>
+			<string>E.ss02</string>
+			<string>Eacute.ss02</string>
+			<string>Egrave.ss02</string>
+			<string>Eogonek.ss02</string>
+			<string>F.ss02</string>
+			<string>G.ss02</string>
+			<string>Iacute.ss02</string>
+			<string>Igrave.ss02</string>
+			<string>J.ss02</string>
+			<string>K.ss02</string>
+			<string>Lslash.ss02</string>
+			<string>M.ss02</string>
+			<string>N.ss02</string>
+			<string>Nacute.ss02</string>
+			<string>Ntilde.ss02</string>
+			<string>O.ss02</string>
+			<string>Oacute.ss02</string>
+			<string>Ograve.ss02</string>
+			<string>Otilde.ss02</string>
+			<string>P.ss02</string>
+			<string>Q.ss02</string>
+			<string>R.ss02</string>
+			<string>S.ss02</string>
+			<string>Sacute.ss02</string>
+			<string>U.ss02</string>
+			<string>Uacute.ss02</string>
+			<string>Ugrave.ss02</string>
+			<string>V.ss02</string>
+			<string>W.ss02</string>
+			<string>X.ss02</string>
+			<string>Y.ss02</string>
+			<string>Z.ss02</string>
+			<string>Zacute.ss02</string>
+			<string>Zdotaccent.ss02</string>
 			<string>a</string>
 			<string>aacute</string>
 			<string>acirc</string>
@@ -229,6 +283,30 @@
 			<string>z</string>
 			<string>zacute</string>
 			<string>zdotaccent</string>
+			<string>a.ss02</string>
+			<string>aogonek.ss02</string>
+			<string>b.ss02</string>
+			<string>c.ss02</string>
+			<string>d.ss02</string>
+			<string>e.ss02</string>
+			<string>f.ss02</string>
+			<string>g.ss02</string>
+			<string>h.ss02</string>
+			<string>j.ss02</string>
+			<string>k.ss02</string>
+			<string>m.ss02</string>
+			<string>n.ss02</string>
+			<string>o.ss02</string>
+			<string>p.ss02</string>
+			<string>q.ss02</string>
+			<string>r.ss02</string>
+			<string>s.ss02</string>
+			<string>germandbls.ss02</string>
+			<string>t.ss02</string>
+			<string>u.ss02</string>
+			<string>v.ss02</string>
+			<string>w.ss02</string>
+			<string>y.ss02</string>
 			<string>Be-cy</string>
 			<string>Ge-cy</string>
 			<string>De-cy</string>
@@ -284,7 +362,16 @@
 			<string>seven</string>
 			<string>eight</string>
 			<string>nine</string>
+			<string>zero.ss02</string>
+			<string>one.ss02</string>
+			<string>two.ss02</string>
+			<string>three.ss02</string>
+			<string>five.ss02</string>
+			<string>six.ss02</string>
+			<string>eight.ss02</string>
+			<string>nine.ss02</string>
 			<string>twosuperior</string>
+			<string>twosuperior.ss02</string>
 			<string>period</string>
 			<string>comma</string>
 			<string>colon</string>
@@ -299,10 +386,15 @@
 			<string>numbersign</string>
 			<string>slash</string>
 			<string>backslash</string>
+			<string>exclamdown.ss02</string>
+			<string>questiondown.ss02</string>
+			<string>slash.ss02</string>
 			<string>parenleft</string>
 			<string>parenright</string>
 			<string>bracketleft</string>
 			<string>bracketright</string>
+			<string>parenleft.ss02</string>
+			<string>parenright.ss02</string>
 			<string>hyphen</string>
 			<string>underscore</string>
 			<string>quotedblbase</string>
@@ -312,25 +404,41 @@
 			<string>quoteright</string>
 			<string>guillemetleft</string>
 			<string>guillemetright</string>
+			<string>quotedblleft.ss02</string>
+			<string>guillemetleft.ss02</string>
+			<string>guillemetright.ss02</string>
 			<string>space</string>
+			<string>space.ss02</string>
 			<string>dollar</string>
 			<string>euro</string>
 			<string>florin</string>
 			<string>ruble</string>
 			<string>sterling</string>
 			<string>yen</string>
+			<string>dollar.ss02</string>
+			<string>euro.ss02</string>
+			<string>sterling.ss02</string>
+			<string>yen.ss02</string>
 			<string>plus</string>
 			<string>equal</string>
 			<string>greater</string>
 			<string>less</string>
 			<string>percent</string>
+			<string>percent.ss02</string>
 			<string>at</string>
 			<string>ampersand</string>
 			<string>copyright</string>
 			<string>degree</string>
 			<string>asciicircum</string>
+			<string>ampersand.ss02</string>
+			<string>copyright.ss02</string>
+			<string>degree.ss02</string>
 			<string>minussuperior_onesuperior</string>
+			<string>minussuperior_onesuperior.ss02</string>
 			<string>pixel</string>
+			<string>pixel.25</string>
+			<string>pixel.50</string>
+			<string>pixel.75</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
@@ -394,12 +502,18 @@
 			<string>uni044D</string>
 			<key>euro</key>
 			<string>Euro</string>
+			<key>euro.ss02</key>
+			<string>Euro.ss02</string>
 			<key>ge-cy</key>
 			<string>uni0433</string>
 			<key>guillemetleft</key>
 			<string>guillemotleft</string>
+			<key>guillemetleft.ss02</key>
+			<string>guillemotleft.ss02</string>
 			<key>guillemetright</key>
 			<string>guillemotright</string>
+			<key>guillemetright.ss02</key>
+			<string>guillemotright.ss02</string>
 			<key>hardsign-cy</key>
 			<string>uni044A</string>
 			<key>ia-cy</key>
@@ -416,6 +530,8 @@
 			<string>uni043A</string>
 			<key>minussuperior_onesuperior</key>
 			<string>uni207B00B9</string>
+			<key>minussuperior_onesuperior.ss02</key>
+			<string>uni207B00B9.ss02</string>
 			<key>pe-cy</key>
 			<string>uni043F</string>
 			<key>ruble</key>
@@ -434,6 +550,8 @@
 			<string>uni0446</string>
 			<key>twosuperior</key>
 			<string>uni00B2</string>
+			<key>twosuperior.ss02</key>
+			<string>uni00B2.ss02</string>
 			<key>ve-cy</key>
 			<string>uni0432</string>
 			<key>yeru-cy</key>

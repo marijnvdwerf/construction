@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.ss02" format="2">
+	<advance width="512"/>
+	<outline>
+		<component base="pixel" yOffset="1280"/>
+		<component base="pixel" yOffset="768"/>
+		<component base="pixel" yOffset="512"/>
+		<component base="pixel" yOffset="256"/>
+	</outline>
+</glyph>

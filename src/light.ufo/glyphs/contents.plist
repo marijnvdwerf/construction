@@ -498,6 +498,8 @@
 		<string>uacute.glif</string>
 		<key>ucirc</key>
 		<string>ucirc.glif</string>
+		<key>ucirc.ss02</key>
+		<string>ucirc.ss02.glif</string>
 		<key>ugrave</key>
 		<string>ugrave.glif</string>
 		<key>uhungarumlaut</key>

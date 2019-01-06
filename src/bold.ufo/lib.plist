@@ -222,6 +222,7 @@
 			<string>z</string>
 			<string>zacute</string>
 			<string>zdotaccent</string>
+			<string>ucirc.ss02</string>
 			<string>A-cy</string>
 			<string>Be-cy</string>
 			<string>Ve-cy</string>
@@ -313,6 +314,7 @@
 			<string>numbersign</string>
 			<string>slash</string>
 			<string>backslash</string>
+			<string>backslash.ss02</string>
 			<string>parenleft</string>
 			<string>parenright</string>
 			<string>bracketleft</string>
