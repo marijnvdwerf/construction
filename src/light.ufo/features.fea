@@ -12,5 +12,5 @@ feature ss01 {
 } ss01;
 
 feature ss02 {
-    sub ucirc by ucirc.ss02;
+    sub ucircumflex by ucircumflex.ss02;
 } ss02;
