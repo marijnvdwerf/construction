@@ -12,8 +12,10 @@
 		<string>A_acute.glif</string>
 		<key>Abreve</key>
 		<string>A_breve.glif</string>
-		<key>Acirc</key>
-		<string>A_circ.glif</string>
+		<key>Acircumflex</key>
+		<string>A_circumflex.glif</string>
+		<key>Adieresis</key>
+		<string>A_dieresis.glif</string>
 		<key>Agrave</key>
 		<string>A_grave.glif</string>
 		<key>Aogonek</key>
@@ -22,8 +24,6 @@
 		<string>A_ring.glif</string>
 		<key>Atilde</key>
 		<string>A_tilde.glif</string>
-		<key>Aumlaut</key>
-		<string>A_umlaut.glif</string>
 		<key>B</key>
 		<string>B_.glif</string>
 		<key>Be-cy</key>
@@ -50,8 +50,10 @@
 		<string>E_acute.glif</string>
 		<key>Ecaron</key>
 		<string>E_caron.glif</string>
-		<key>Ecirc</key>
-		<string>E_circ.glif</string>
+		<key>Ecircumflex</key>
+		<string>E_circumflex.glif</string>
+		<key>Edieresis</key>
+		<string>E_dieresis.glif</string>
 		<key>Ef-cy</key>
 		<string>E_f-cy.glif</string>
 		<key>Egrave</key>
@@ -72,8 +74,6 @@
 		<string>E_reversed-cy.ss01.glif</string>
 		<key>Es-cy</key>
 		<string>E_s-cy.glif</string>
-		<key>Eumlaut</key>
-		<string>E_umlaut.glif</string>
 		<key>F</key>
 		<string>F_.glif</string>
 		<key>G</key>
@@ -94,8 +94,10 @@
 		<string>I_a-cy.glif</string>
 		<key>Iacute</key>
 		<string>I_acute.glif</string>
-		<key>Icirc</key>
-		<string>I_circ.glif</string>
+		<key>Icircumflex</key>
+		<string>I_circumflex.glif</string>
+		<key>Idieresis</key>
+		<string>I_dieresis.glif</string>
 		<key>Idotaccent</key>
 		<string>I_dotaccent.glif</string>
 		<key>Ie-cy</key>
@@ -108,8 +110,6 @@
 		<string>I_ishort-cy.glif</string>
 		<key>Iu-cy</key>
 		<string>I_u-cy.glif</string>
-		<key>Iumlaut</key>
-		<string>I_umlaut.glif</string>
 		<key>J</key>
 		<string>J_.glif</string>
 		<key>K</key>
@@ -134,8 +134,10 @@
 		<string>O_-cy.glif</string>
 		<key>Oacute</key>
 		<string>O_acute.glif</string>
-		<key>Ocirc</key>
-		<string>O_circ.glif</string>
+		<key>Ocircumflex</key>
+		<string>O_circumflex.glif</string>
+		<key>Odieresis</key>
+		<string>O_dieresis.glif</string>
 		<key>Ograve</key>
 		<string>O_grave.glif</string>
 		<key>Ohungarumlaut</key>
@@ -144,8 +146,6 @@
 		<string>O_slash.glif</string>
 		<key>Otilde</key>
 		<string>O_tilde.glif</string>
-		<key>Oumlaut</key>
-		<string>O_umlaut.glif</string>
 		<key>P</key>
 		<string>P_.glif</string>
 		<key>Pe-cy</key>
@@ -180,14 +180,14 @@
 		<string>U_-cy.glif</string>
 		<key>Uacute</key>
 		<string>U_acute.glif</string>
-		<key>Ucirc</key>
-		<string>U_circ.glif</string>
+		<key>Ucircumflex</key>
+		<string>U_circumflex.glif</string>
+		<key>Udieresis</key>
+		<string>U_dieresis.glif</string>
 		<key>Ugrave</key>
 		<string>U_grave.glif</string>
 		<key>Uhungarumlaut</key>
 		<string>U_hungarumlaut.glif</string>
-		<key>Uumlaut</key>
-		<string>U_umlaut.glif</string>
 		<key>V</key>
 		<string>V_.glif</string>
 		<key>Ve-cy</key>
@@ -218,8 +218,10 @@
 		<string>a-cy.glif</string>
 		<key>aacute</key>
 		<string>aacute.glif</string>
-		<key>acirc</key>
-		<string>acirc.glif</string>
+		<key>acircumflex</key>
+		<string>acircumflex.glif</string>
+		<key>adieresis</key>
+		<string>adieresis.glif</string>
 		<key>ae</key>
 		<string>ae.glif</string>
 		<key>agrave</key>
@@ -238,8 +240,6 @@
 		<string>at.glif</string>
 		<key>atilde</key>
 		<string>atilde.glif</string>
-		<key>aumlaut</key>
-		<string>aumlaut.glif</string>
 		<key>b</key>
 		<string>b.glif</string>
 		<key>backslash</key>
@@ -282,8 +282,10 @@
 		<string>eacute.glif</string>
 		<key>ecaron</key>
 		<string>ecaron.glif</string>
-		<key>ecirc</key>
-		<string>ecirc.glif</string>
+		<key>ecircumflex</key>
+		<string>ecircumflex.glif</string>
+		<key>edieresis</key>
+		<string>edieresis.glif</string>
 		<key>ef-cy</key>
 		<string>ef-cy.glif</string>
 		<key>egrave</key>
@@ -308,8 +310,6 @@
 		<string>ereversed-cy.glif</string>
 		<key>es-cy</key>
 		<string>es-cy.glif</string>
-		<key>eumlaut</key>
-		<string>eumlaut.glif</string>
 		<key>euro</key>
 		<string>euro.glif</string>
 		<key>exclam</key>
@@ -352,8 +352,10 @@
 		<string>ia-cy.glif</string>
 		<key>iacute</key>
 		<string>iacute.glif</string>
-		<key>icirc</key>
-		<string>icirc.glif</string>
+		<key>icircumflex</key>
+		<string>icircumflex.glif</string>
+		<key>idieresis</key>
+		<string>idieresis.glif</string>
 		<key>idotless</key>
 		<string>idotless.glif</string>
 		<key>ie-cy</key>
@@ -366,8 +368,6 @@
 		<string>iishort-cy.glif</string>
 		<key>iu-cy</key>
 		<string>iu-cy.glif</string>
-		<key>iumlaut</key>
-		<string>iumlaut.glif</string>
 		<key>j</key>
 		<string>j.glif</string>
 		<key>k</key>
@@ -400,8 +400,10 @@
 		<string>o-cy.glif</string>
 		<key>oacute</key>
 		<string>oacute.glif</string>
-		<key>ocirc</key>
-		<string>ocirc.glif</string>
+		<key>ocircumflex</key>
+		<string>ocircumflex.glif</string>
+		<key>odieresis</key>
+		<string>odieresis.glif</string>
 		<key>ograve</key>
 		<string>ograve.glif</string>
 		<key>ohungarumlaut</key>
@@ -412,8 +414,6 @@
 		<string>oslash.glif</string>
 		<key>otilde</key>
 		<string>otilde.glif</string>
-		<key>oumlaut</key>
-		<string>oumlaut.glif</string>
 		<key>p</key>
 		<string>p.glif</string>
 		<key>parenleft</key>
@@ -496,18 +496,18 @@
 		<string>u-cy.glif</string>
 		<key>uacute</key>
 		<string>uacute.glif</string>
-		<key>ucirc</key>
-		<string>ucirc.glif</string>
-		<key>ucirc.ss02</key>
-		<string>ucirc.ss02.glif</string>
+		<key>ucircumflex</key>
+		<string>ucircumflex.glif</string>
+		<key>ucircumflex.ss02</key>
+		<string>ucircumflex.ss02.glif</string>
+		<key>udieresis</key>
+		<string>udieresis.glif</string>
 		<key>ugrave</key>
 		<string>ugrave.glif</string>
 		<key>uhungarumlaut</key>
 		<string>uhungarumlaut.glif</string>
 		<key>underscore</key>
 		<string>underscore.glif</string>
-		<key>uumlaut</key>
-		<string>uumlaut.glif</string>
 		<key>v</key>
 		<string>v.glif</string>
 		<key>ve-cy</key>
