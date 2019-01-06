@@ -88,12 +88,12 @@
 			<string>A</string>
 			<string>Aacute</string>
 			<string>Abreve</string>
-			<string>Acirc</string>
+			<string>Acircumflex</string>
+			<string>Adieresis</string>
 			<string>Agrave</string>
 			<string>Aogonek</string>
 			<string>Aring</string>
 			<string>Atilde</string>
-			<string>Aumlaut</string>
 			<string>AE</string>
 			<string>B</string>
 			<string>C</string>
@@ -105,20 +105,20 @@
 			<string>E</string>
 			<string>Eacute</string>
 			<string>Ecaron</string>
-			<string>Ecirc</string>
+			<string>Ecircumflex</string>
+			<string>Edieresis</string>
 			<string>Egrave</string>
 			<string>Eogonek</string>
-			<string>Eumlaut</string>
 			<string>F</string>
 			<string>G</string>
 			<string>Gbreve</string>
 			<string>H</string>
 			<string>I</string>
 			<string>Iacute</string>
-			<string>Icirc</string>
+			<string>Icircumflex</string>
+			<string>Idieresis</string>
 			<string>Idotaccent</string>
 			<string>Igrave</string>
-			<string>Iumlaut</string>
 			<string>J</string>
 			<string>K</string>
 			<string>L</string>
@@ -129,12 +129,12 @@
 			<string>Ntilde</string>
 			<string>O</string>
 			<string>Oacute</string>
-			<string>Ocirc</string>
+			<string>Ocircumflex</string>
+			<string>Odieresis</string>
 			<string>Ograve</string>
 			<string>Ohungarumlaut</string>
 			<string>Oslash</string>
 			<string>Otilde</string>
-			<string>Oumlaut</string>
 			<string>P</string>
 			<string>Q</string>
 			<string>R</string>
@@ -145,10 +145,10 @@
 			<string>Tcommaaccent</string>
 			<string>U</string>
 			<string>Uacute</string>
-			<string>Ucirc</string>
+			<string>Ucircumflex</string>
+			<string>Udieresis</string>
 			<string>Ugrave</string>
 			<string>Uhungarumlaut</string>
-			<string>Uumlaut</string>
 			<string>V</string>
 			<string>W</string>
 			<string>X</string>
@@ -157,18 +157,10 @@
 			<string>Z</string>
 			<string>Zacute</string>
 			<string>Zdotaccent</string>
-			<string>Acirc.ss02</string>
-			<string>Aumlaut.ss02</string>
-			<string>Ecirc.ss02</string>
-			<string>Eumlaut.ss02</string>
-			<string>Icirc.ss02</string>
-			<string>Iumlaut.ss02</string>
-			<string>Ocirc.ss02</string>
-			<string>Oumlaut.ss02</string>
-			<string>Ucirc.ss02</string>
-			<string>Uumlaut.ss02</string>
 			<string>A.ss02</string>
 			<string>Aacute.ss02</string>
+			<string>Acircumflex.ss02</string>
+			<string>Adieresis.ss02</string>
 			<string>Agrave.ss02</string>
 			<string>Aring.ss02</string>
 			<string>Atilde.ss02</string>
@@ -179,11 +171,15 @@
 			<string>D.ss02</string>
 			<string>E.ss02</string>
 			<string>Eacute.ss02</string>
+			<string>Ecircumflex.ss02</string>
+			<string>Edieresis.ss02</string>
 			<string>Egrave.ss02</string>
 			<string>Eogonek.ss02</string>
 			<string>F.ss02</string>
 			<string>G.ss02</string>
 			<string>Iacute.ss02</string>
+			<string>Icircumflex.ss02</string>
+			<string>Idieresis.ss02</string>
 			<string>Igrave.ss02</string>
 			<string>J.ss02</string>
 			<string>K.ss02</string>
@@ -194,6 +190,8 @@
 			<string>Ntilde.ss02</string>
 			<string>O.ss02</string>
 			<string>Oacute.ss02</string>
+			<string>Ocircumflex.ss02</string>
+			<string>Odieresis.ss02</string>
 			<string>Ograve.ss02</string>
 			<string>Otilde.ss02</string>
 			<string>P.ss02</string>
@@ -203,6 +201,8 @@
 			<string>Sacute.ss02</string>
 			<string>U.ss02</string>
 			<string>Uacute.ss02</string>
+			<string>Ucircumflex.ss02</string>
+			<string>Udieresis.ss02</string>
 			<string>Ugrave.ss02</string>
 			<string>V.ss02</string>
 			<string>W.ss02</string>
@@ -213,12 +213,12 @@
 			<string>Zdotaccent.ss02</string>
 			<string>a</string>
 			<string>aacute</string>
-			<string>acirc</string>
+			<string>acircumflex</string>
+			<string>adieresis</string>
 			<string>agrave</string>
 			<string>aogonek</string>
 			<string>aring</string>
 			<string>atilde</string>
-			<string>aumlaut</string>
 			<string>ae</string>
 			<string>b</string>
 			<string>c</string>
@@ -230,10 +230,10 @@
 			<string>e</string>
 			<string>eacute</string>
 			<string>ecaron</string>
-			<string>ecirc</string>
+			<string>ecircumflex</string>
+			<string>edieresis</string>
 			<string>egrave</string>
 			<string>eogonek</string>
-			<string>eumlaut</string>
 			<string>f</string>
 			<string>g</string>
 			<string>gbreve</string>
@@ -241,9 +241,9 @@
 			<string>i</string>
 			<string>idotless</string>
 			<string>iacute</string>
-			<string>icirc</string>
+			<string>icircumflex</string>
+			<string>idieresis</string>
 			<string>igrave</string>
-			<string>iumlaut</string>
 			<string>j</string>
 			<string>k</string>
 			<string>l</string>
@@ -254,12 +254,12 @@
 			<string>ntilde</string>
 			<string>o</string>
 			<string>oacute</string>
-			<string>ocirc</string>
+			<string>ocircumflex</string>
+			<string>odieresis</string>
 			<string>ograve</string>
 			<string>ohungarumlaut</string>
 			<string>oslash</string>
 			<string>otilde</string>
-			<string>oumlaut</string>
 			<string>p</string>
 			<string>q</string>
 			<string>r</string>
@@ -271,10 +271,10 @@
 			<string>tcommaaccent</string>
 			<string>u</string>
 			<string>uacute</string>
-			<string>ucirc</string>
+			<string>ucircumflex</string>
+			<string>udieresis</string>
 			<string>ugrave</string>
 			<string>uhungarumlaut</string>
-			<string>uumlaut</string>
 			<string>v</string>
 			<string>w</string>
 			<string>x</string>

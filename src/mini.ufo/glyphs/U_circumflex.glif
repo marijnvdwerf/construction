@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ecirc.ss02" format="2">
+<glyph name="Ucircumflex" format="2">
+	<unicode hex="00DB"/>
 	<advance width="1024"/>
 	<outline>
-		<component base="pixel" yOffset="1280"/>
-		<component base="pixel" xOffset="256" yOffset="1280"/>
-		<component base="pixel" xOffset="512" yOffset="1280"/>
 		<component base="pixel" yOffset="1024"/>
 		<component base="pixel" xOffset="256" yOffset="1024"/>
 		<component base="pixel" xOffset="512" yOffset="1024"/>
-		<component base="pixel" yOffset="768"/>
 		<component base="pixel" yOffset="512"/>
-		<component base="pixel" xOffset="256" yOffset="512"/>
 		<component base="pixel" xOffset="512" yOffset="512"/>
 		<component base="pixel" yOffset="256"/>
+		<component base="pixel" xOffset="512" yOffset="256"/>
 		<component base="pixel"/>
-		<component base="pixel" xOffset="256"/>
 		<component base="pixel" xOffset="512"/>
+		<component base="pixel" yOffset="-256"/>
+		<component base="pixel" xOffset="256" yOffset="-256"/>
+		<component base="pixel" xOffset="512" yOffset="-256"/>
 	</outline>
 </glyph>
