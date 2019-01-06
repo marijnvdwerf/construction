@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="icirc" format="2">
-	<unicode hex="00EE"/>
+<glyph name="idieresis" format="2">
+	<unicode hex="00EF"/>
 	<advance width="2048"/>
 	<outline>
-		<component base="pixel" xOffset="512" yOffset="3328"/>
-		<component base="pixel" xOffset="768" yOffset="3328"/>
+		<component base="pixel" yOffset="3072"/>
 		<component base="pixel" xOffset="256" yOffset="3072"/>
-		<component base="pixel" xOffset="512" yOffset="3072"/>
-		<component base="pixel" xOffset="768" yOffset="3072"/>
 		<component base="pixel" xOffset="1024" yOffset="3072"/>
+		<component base="pixel" xOffset="1280" yOffset="3072"/>
 		<component base="pixel" yOffset="2816"/>
 		<component base="pixel" xOffset="256" yOffset="2816"/>
 		<component base="pixel" xOffset="1024" yOffset="2816"/>
