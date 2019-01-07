@@ -155,6 +155,7 @@
 			<string>g</string>
 			<string>h</string>
 			<string>i</string>
+			<string>idotless</string>
 			<string>iacute</string>
 			<string>icircumflex</string>
 			<string>idieresis</string>
@@ -247,6 +248,8 @@
 			<string>guillemotleft</string>
 			<key>guillemetright</key>
 			<string>guillemotright</string>
+			<key>idotless</key>
+			<string>dotlessi</string>
 			<key>minussuperior</key>
 			<string>uni207B00B9</string>
 			<key>onesuperior</key>
