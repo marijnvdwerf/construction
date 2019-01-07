@@ -299,6 +299,7 @@
 			<string>seven</string>
 			<string>eight</string>
 			<string>nine</string>
+			<string>onesuperior</string>
 			<string>twosuperior</string>
 			<string>period</string>
 			<string>comma</string>
@@ -335,6 +336,7 @@
 			<string>ruble</string>
 			<string>sterling</string>
 			<string>yen</string>
+			<string>minussuperior</string>
 			<string>plus</string>
 			<string>equal</string>
 			<string>greater</string>
@@ -345,7 +347,6 @@
 			<string>copyright</string>
 			<string>degree</string>
 			<string>asciicircum</string>
-			<string>minussuperior_onesuperior</string>
 			<string>pixel</string>
 		</array>
 		<key>public.postscriptNames</key>
@@ -468,10 +469,12 @@
 			<string>uni044E</string>
 			<key>ka-cy</key>
 			<string>uni043A</string>
-			<key>minussuperior_onesuperior</key>
+			<key>minussuperior</key>
 			<string>uni207B00B9</string>
 			<key>o-cy</key>
 			<string>uni043E</string>
+			<key>onesuperior</key>
+			<string>uni207B00B9</string>
 			<key>pe-cy</key>
 			<string>uni043F</string>
 			<key>ruble</key>
