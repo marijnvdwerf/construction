@@ -214,8 +214,8 @@
 		<string>less.glif</string>
 		<key>m</key>
 		<string>m.glif</string>
-		<key>minussuperior_onesuperior</key>
-		<string>minussuperior_onesuperior.glif</string>
+		<key>minussuperior</key>
+		<string>minussuperior.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
 		<key>nine</key>
@@ -236,6 +236,8 @@
 		<string>ograve.glif</string>
 		<key>one</key>
 		<string>one.glif</string>
+		<key>onesuperior</key>
+		<string>onesuperior.glif</string>
 		<key>otilde</key>
 		<string>otilde.glif</string>
 		<key>p</key>
