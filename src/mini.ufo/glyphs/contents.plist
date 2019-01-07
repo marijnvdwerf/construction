@@ -500,10 +500,10 @@
 		<string>m.glif</string>
 		<key>m.ss02</key>
 		<string>m.ss02.glif</string>
-		<key>minussuperior_onesuperior</key>
-		<string>minussuperior_onesuperior.glif</string>
-		<key>minussuperior_onesuperior.ss02</key>
-		<string>minussuperior_onesuperior.ss02.glif</string>
+		<key>minussuperior</key>
+		<string>minussuperior.glif</string>
+		<key>minussuperior.ss02</key>
+		<string>minussuperior.ss02.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
 		<key>n.ss02</key>
@@ -536,6 +536,10 @@
 		<string>one.glif</string>
 		<key>one.ss02</key>
 		<string>one.ss02.glif</string>
+		<key>onesuperior</key>
+		<string>onesuperior.glif</string>
+		<key>onesuperior.ss02</key>
+		<string>onesuperior.ss02.glif</string>
 		<key>oslash</key>
 		<string>oslash.glif</string>
 		<key>otilde</key>

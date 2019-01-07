@@ -370,7 +370,9 @@
 			<string>six.ss02</string>
 			<string>eight.ss02</string>
 			<string>nine.ss02</string>
+			<string>onesuperior</string>
 			<string>twosuperior</string>
+			<string>onesuperior.ss02</string>
 			<string>twosuperior.ss02</string>
 			<string>period</string>
 			<string>comma</string>
@@ -419,11 +421,13 @@
 			<string>euro.ss02</string>
 			<string>sterling.ss02</string>
 			<string>yen.ss02</string>
+			<string>minussuperior</string>
 			<string>plus</string>
 			<string>equal</string>
 			<string>greater</string>
 			<string>less</string>
 			<string>percent</string>
+			<string>minussuperior.ss02</string>
 			<string>percent.ss02</string>
 			<string>at</string>
 			<string>ampersand</string>
@@ -433,8 +437,6 @@
 			<string>ampersand.ss02</string>
 			<string>copyright.ss02</string>
 			<string>degree.ss02</string>
-			<string>minussuperior_onesuperior</string>
-			<string>minussuperior_onesuperior.ss02</string>
 			<string>pixel</string>
 			<string>pixel.25</string>
 			<string>pixel.50</string>
@@ -528,9 +530,13 @@
 			<string>uni044E</string>
 			<key>ka-cy</key>
 			<string>uni043A</string>
-			<key>minussuperior_onesuperior</key>
+			<key>minussuperior</key>
 			<string>uni207B00B9</string>
-			<key>minussuperior_onesuperior.ss02</key>
+			<key>minussuperior.ss02</key>
+			<string>uni207B00B9.ss02</string>
+			<key>onesuperior</key>
+			<string>uni207B00B9</string>
+			<key>onesuperior.ss02</key>
 			<string>uni207B00B9.ss02</string>
 			<key>pe-cy</key>
 			<string>uni043F</string>

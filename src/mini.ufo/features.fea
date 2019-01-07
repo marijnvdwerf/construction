@@ -84,11 +84,12 @@ feature ss02 {
     sub j by j.ss02;
     sub k by k.ss02;
     sub m by m.ss02;
-    sub minussuperior_onesuperior by minussuperior_onesuperior.ss02;
+    sub minussuperior by minussuperior.ss02;
     sub n by n.ss02;
     sub nine by nine.ss02;
     sub o by o.ss02;
     sub one by one.ss02;
+    sub onesuperior by onesuperior.ss02;
     sub p by p.ss02;
     sub parenleft by parenleft.ss02;
     sub parenright by parenright.ss02;
