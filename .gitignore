@@ -1,0 +1,6 @@
+build/
+*.zip
+.venv/
+__pycache__/
+master_otf/
+master_ttf/
