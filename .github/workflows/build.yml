@@ -1,0 +1,77 @@
+name: Build fonts
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v[0-9]*'
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
+          python-version: '3.12'
+
+      - name: Install project dependencies
+        run: uv sync --locked
+
+      - name: Build OTF fonts
+        run: uv run fontmake -u src/*.ufo -o otf --output-dir build/otf --validate-ufo
+
+      - name: Build TTF fonts
+        run: uv run fontmake -u src/*.ufo -o ttf --output-dir build/ttf --validate-ufo
+
+      - name: Check built fonts
+        shell: bash
+        run: |
+          otf_count=$(find build/otf -type f -name '*.otf' | wc -l)
+          ttf_count=$(find build/ttf -type f -name '*.ttf' | wc -l)
+          test "$otf_count" -eq 4
+          test "$ttf_count" -eq 4
+          find build/otf build/ttf -type f \( -name '*.otf' -o -name '*.ttf' \) -print | sort
+
+      - name: Upload fonts
+        uses: actions/upload-artifact@v4
+        with:
+          name: construction-fonts
+          path: build/
+          if-no-files-found: error
+
+  release:
+    if: startsWith(github.ref, 'refs/tags/v') && !contains(github.ref_name, '/') && github.ref_name != 'v'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download built fonts
+        uses: actions/download-artifact@v4
+        with:
+          name: construction-fonts
+          path: build
+
+      - name: Package release archive
+        run: cd build && zip -r "../construction-fonts-${GITHUB_REF_NAME}.zip" otf ttf
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: construction-fonts-${{ github.ref_name }}.zip
+          fail_on_unmatched_files: true
