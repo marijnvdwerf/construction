@@ -6,6 +6,9 @@ resolution-markers = [
     "implementation_name != 'cpython'",
 ]
 
+[options]
+exclude-newer = "2026-08-23T22:00:00Z"
+
 [[package]]
 name = "attrs"
 version = "26.1.0"

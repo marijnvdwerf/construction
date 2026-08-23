@@ -8,3 +8,4 @@ dependencies = [
 
 [tool.uv]
 package = false
+exclude-newer = "2026-08-23"
